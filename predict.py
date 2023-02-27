@@ -1,4 +1,4 @@
-from data import *
+from data_prep import *
 from hyperparams import *
-from main import *
+from model import *
 
