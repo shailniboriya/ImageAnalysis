@@ -1,4 +1,4 @@
-from load_data import *
+from data import *
 from hyperparams import *
 from main import *
 
