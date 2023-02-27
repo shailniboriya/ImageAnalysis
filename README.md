@@ -1,5 +1,5 @@
 # Image Analysis
-## Installtion
+## Installation
 ### using conda
 ```
 conda env create -f requirements.yml
