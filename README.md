@@ -1,10 +1,11 @@
-# Installtion
-## using conda
+# Image Analysis
+## Installtion
+### using conda
 ```
 conda env create -f requirements.yml
 ```
 
-## using pip
+### using pip
 ```
 pip freeze > requirements.txt
 ```
