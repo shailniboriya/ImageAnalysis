@@ -22,7 +22,8 @@ pip freeze > requirements.txt
 
 ## Data 
 
-Keep your trainig data in input/train/ and test data in input/test/
+* Keep your trainig data in input/train/ and test data in input/test/
+* All the output will be saved in output/
 
 ## Training 
 
