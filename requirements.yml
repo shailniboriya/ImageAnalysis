@@ -1,1 +1,7 @@
-
+name: env_name
+channels:
+- anaconda
+- conda-forge
+- defaults
+dependencies:
+- package_name=version
