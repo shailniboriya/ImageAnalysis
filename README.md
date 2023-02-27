@@ -1,5 +1,15 @@
 # Image Analysis
+
 ## Installation
+
+* clone this repository 
+
+```
+git clone https://github.com/shailniboriya/MedImage.git
+```
+
+* create a working environment 
+
 ### using conda
 ```
 conda env create -f requirements.yml
@@ -9,3 +19,12 @@ conda env create -f requirements.yml
 ```
 pip freeze > requirements.txt
 ```
+
+## Data 
+
+Keep your trainig data in input/train/ and test data in input/test/
+
+## Training 
+
+
+## Prediction
