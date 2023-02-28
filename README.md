@@ -2,30 +2,39 @@
 
 ## Installation
 
-* clone this repository 
+### clone this repository 
 
 ```
 git clone https://github.com/shailniboriya/MedImage.git
 ```
 
-* create a working environment 
-
-### using conda
+### create a working environment using conda
 ```
 conda env create -f requirements.yml
 ```
 
-### using pip
+Activate conda environment
 ```
-pip freeze > requirements.txt
+conda activate
+```
+Get into MedImage directory
+
+```
+cd MedImage
 ```
 
 ## Data 
 
 * Keep your trainig data in input/train/ and test data in input/test/
-* All the output will be saved in output/
+* All the output files will be saved in output/
 
 ## Training 
 
+```
+python train.py
+```
 
 ## Prediction
+```
+python predict.py
+```
