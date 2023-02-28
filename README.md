@@ -15,7 +15,7 @@ conda env create -f requirements.yml
 
 Activate conda environment
 ```
-conda activate
+conda activate MedImage
 ```
 Get into MedImage directory
 
