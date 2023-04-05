@@ -15,7 +15,7 @@ model= tf.keras.models.load_model(f'{curr_dir}/output/models/model')
 testdir=f"{curr_dir}/input/test"
 img_file = []
 img_class = []
-for img in glob.glob(f"{testdir}/*.{jpg,JPG,jpeg,JPEG,png,PNG}"):
+for img in glob.glob(f"{testdir}/*.jpg") + glob.glob(f"{testdir}/*.JPG") + glob.glob(f"{testdir}/*.jpeg") + glob.glob(f"{testdir}/*.JPEG") + glob.glob(f"{testdir}/*.png") + glob.glob(f"{testdir}/*.PNG"):
     img_file.append(img)
     imgarray=convert_image_to_array(img)
     #predicting the class of test data
