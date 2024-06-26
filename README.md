@@ -2,13 +2,19 @@
 
 ## Installation
 
-### clone this repository 
+clone this repository 
 
 ```
 git clone https://github.com/shailniboriya/MedImage.git
 ```
 
-### create a working environment using conda
+Get into MedImage directory
+
+```
+cd MedImage
+```
+
+create a working environment using conda
 ```
 conda env create -f requirements.yml
 ```
@@ -16,11 +22,6 @@ conda env create -f requirements.yml
 Activate conda environment
 ```
 conda activate MedImage
-```
-Get into MedImage directory
-
-```
-cd MedImage
 ```
 
 ## Data 
