@@ -2,7 +2,7 @@
 
 ## Installation
 
-clone this repository 
+Clone this repository 
 
 ```
 git clone https://github.com/shailniboriya/MedImage.git
@@ -14,7 +14,7 @@ Get into MedImage directory
 cd MedImage
 ```
 
-create a working environment using conda
+Create a working environment using conda
 ```
 conda env create -f requirements.yml
 ```
