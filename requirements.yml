@@ -1,4 +1,4 @@
-name: MedImage
+name: ImageAnalysis
 channels:
   - defaults
 dependencies:
