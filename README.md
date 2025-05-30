@@ -1,4 +1,5 @@
 # Image Analysis
+An image analysis model for plant leaves
 
 ## Installation
 
