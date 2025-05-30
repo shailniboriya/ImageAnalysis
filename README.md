@@ -5,7 +5,7 @@
 Clone this repository 
 
 ```
-git clone https://github.com/shailniboriya/MImageAnalysis.git
+git clone https://github.com/shailniboriya/ImageAnalysis.git
 ```
 
 Get into ImageAnalysis directory
