@@ -5,13 +5,13 @@
 Clone this repository 
 
 ```
-git clone https://github.com/shailniboriya/MedImage.git
+git clone https://github.com/shailniboriya/MImageAnalysis.git
 ```
 
-Get into MedImage directory
+Get into ImageAnalysis directory
 
 ```
-cd MedImage
+cd ImageAnalysis
 ```
 
 Create a working environment using conda
@@ -21,7 +21,7 @@ conda env create -f requirements.yml
 
 Activate conda environment
 ```
-conda activate MedImage
+conda activate ImageAnalysis
 ```
 
 ## Data 
